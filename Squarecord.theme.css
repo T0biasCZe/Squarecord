@@ -2,7 +2,7 @@
  * @name Squarecord
  * @author T0biasCZe
  * @description Removes all the curved corners and replaces them with nice square and sharp borders. support here: https://discord.gg/HRK8MRz6KD
- * @version 1.0.0
+ * @version 1.0.1
  * @source https://github.com/T0biasCZe/Squarecord
  */
 
@@ -32,13 +32,16 @@
     border-radius: 0%;
 }
 
-/*start page*/
+/*start/front page*/
 .itemCard__1f162,
 .section_efc22d:only-child,
 .activitySectionAssets_ea2444 .largeImage_f4707b,
 .headerIcon__5761b, .multipleIconWrapper__164fb,
 .peopleListItem_d14722:hover, .peopleListItem_d14722.active__6b8ff, .topPill__0cdf1 .item__48dda{
     border-radius: 0%;
+}
+.actionButton__23182{
+    border-radius: 3px;
 }
 
 
