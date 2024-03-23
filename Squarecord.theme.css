@@ -1,0 +1,272 @@
+/**
+ * @name Squarecord
+ * @author T0biasCZe
+ * @description Removes all the curved corners and replaces them with nice square and sharp borders. support here: https://discord.gg/HRK8MRz6KD
+ * @version 1.0.0
+ * @source https://github.com/T0biasCZe/Squarecord
+ */
+
+/* Center align images */
+.searchResultsWrap__9f374{
+    width: 600px;
+}
+
+.avatar__08316, .wrapper_edb6e0, .container__4f20e {
+    border-radius: 0%;
+}
+.avatarWrapper_f77579 {
+    border-radius: 0%;
+}
+.avatarHoverTarget__3a360 {
+    border-radius: 0%;
+}
+.avatar-2e8lTP{
+    border-radius: 0;
+}
+.avatar_a56eee{
+    border-radius: 0;
+}
+
+
+.withTagAsButton_cc125f:hover, .withTagless__98b7d:hover{
+    border-radius: 0%;
+}
+
+/*start page*/
+.itemCard__1f162,
+.section_efc22d:only-child,
+.activitySectionAssets_ea2444 .largeImage_f4707b,
+.headerIcon__5761b, .multipleIconWrapper__164fb,
+.peopleListItem_d14722:hover, .peopleListItem_d14722.active__6b8ff, .topPill__0cdf1 .item__48dda{
+    border-radius: 0%;
+}
+
+
+/*server list*/
+.expandedFolderBackground__1bec6,
+.wrapperSimple_a34580,
+#app-mount .guilds__2b93a [class*=expandedFolderBackground]{
+    border-radius: 0%;
+}
+.folderIconWrapper__72239{
+    border-radius: 0%;
+}
+.baseShapeRound__95d0f{ /*square ping*/
+    border-radius: 0%;
+}
+
+/*unread message above/below bar*/
+.bar_edc096{
+    border-radius: 0%;
+}
+
+.userProfileOuter__46bb7{
+    border-radius: 0%;
+}
+.overlayBackground__86b78{
+    border-radius: 0%;    
+}
+.role__631a3{
+    border-radius: 0%;
+}
+.messageInputContainer__768e6{
+    border-radius: 0%;
+}
+.scrollableContainer__33e06{
+    border-radius: 0%; 
+}
+.link__95dc0{
+    border-radius: 0%; 
+}
+.profileBadges__7a7cb{
+    border-radius: 0%; 
+}
+
+/*RPC*/
+.assetsLargeImage_b88a59,
+.button_afdfd9{
+    border-radius: 0% !IMPORTANT; 
+}
+
+/*settings tabs*/
+.side_b4b3f6 .item__48dda{
+    border-radius: 0%; 
+}
+
+/*Makes images have square borders*/
+.imageDetailsAdded_sda9Fa, .imageWrapper_fd6587{
+    border-radius: 0% !IMPORTANT;
+}
+.imageDetailsAdded_sda9Fa .imageWrapper_fd6587{
+    border-radius: 0% !IMPORTANT;
+}
+.messageAttachmentMediaMosaic__65bfc{
+    border-radius: 0% !IMPORTANT;
+}
+.mediaAttachmentsContainer_edba75{
+    border-radius: 0% !IMPORTANT;
+}
+.embed_d3cbe3{
+    border-radius: 0% !IMPORTANT;
+}
+.embedMedia_b473d2{
+    border-radius: 0% !IMPORTANT;
+}
+.wrapper__3a7a0{
+    border-radius: 0% !IMPORTANT;
+}
+.embedImage_e638a7 img, .embedImage_e638a7 video, .embedThumbnail__468e1 img, .embedThumbnail__468e1 video, .embedVideo__0c65b img, .embedVideo__0c65b video{
+    border-radius: 0% !IMPORTANT;
+}
+.layout_bb8e67{
+    border-radius: 0%;
+}
+
+/*voice room*/
+.tile_a411a4,
+.header__6d5ea,
+.root_a28985,
+.activityItem__33da9,
+.footer__89240,
+.border_d9a17b,
+.overlayTitle_a9f7c6{
+    border-radius: 0%;
+}
+.liveShapeRound__811c0{
+    border-radius: 0%;
+}
+.content_b60865{
+    border-radius: 0%;
+}
+
+.baseShapeRoundRight__556f4,
+.baseShapeRoundLeft__99acd{
+    border-radius: 0%;
+}
+
+/*picture in picture*/
+.borderRadius__3965c,
+.pictureInPictureVideo_f1081d{
+    border-radius: 0%;
+}
+
+
+/*voice input selection*/
+.menu_dc52c6,
+.item__183e8{
+    border-radius: 0%;
+}
+
+/*settings*/
+.select__0eb48,
+.radioBar__40e1b,
+.item_b7fb7e{
+    border-radius: 0%;
+}
+
+/*settings discord look purple border*/
+.featureBorder_a44f20{
+    border-radius: 0%;
+}
+/*settings discord look colour themes*/
+.themeSelection__6014a{
+    border-radius: 0%;
+}
+/*app icon*/
+.appIconSelection__3c38d{
+    border-radius: 0%;
+}
+.selectionCircle_f4288e{
+    border-radius: 0%;
+}
+
+.accountProfileCard__22589,
+.background_b61fcc{
+    border-radius: 0%;
+}
+
+
+/*discord nitro settings*/
+.background__584e7{
+    border-radius: 0;
+}
+.settingsContainer__7e9ad,
+.card__48184, .stackedCard__02716{
+    border-radius: 0;
+}
+.perkCard__6fe60{
+    border-radius: 0;
+}
+.tier2ColumnOuter__0b5e2, .tier2ColumnOuterBackground__96f3a, .mostPopularPill__0aaba{
+    border-radius: 0;
+}
+/*server upgrade setting*/
+.recommendedServerCard__70a39{
+    border-radius: 0;
+}
+.iconInactive__90d40{
+    border-radius: 0;
+}
+.wrapper__26ed7, .card__67edb{
+    border-radius: 0;
+}
+.gradient_e94761{
+    border-radius: 0;
+}
+.guildBoostGemWrapper__975b2{
+    border-radius: 0;
+}
+.wrapper__0df00{
+    border-radius: 0;
+}
+.wrapper_cf13f4{
+    border-radius: 0;
+}
+
+/*radio button*/
+.container__871ba{ 
+    border-radius: 2px;
+}
+.slider__41d94 rect{
+    rx: 2px;
+}
+
+/*authorized programs menu*/
+.card__4dc22{
+    border-radius: 0;
+}
+.appAvatar_dc107b{
+    border-radius: 0;
+}
+/*devices logged on menu*/
+.sessionIcon__540be{
+    border-radius: 0;
+}
+
+/*BD settings*/
+.bd-addon-list .bd-addon-card{
+    border-radius: 0px;
+}
+.bd-controls>.bd-addon-button:first-of-type, .bd-controls>.bd-addon-button:last-of-type{
+    border-radius: 0px;
+}
+.bd-filled-checkmark{
+    border-radius: 0px;
+}
+/*bd radio button*/
+.bd-switch input{
+    border-radius: 2px;
+}
+.bd-switch-body{
+    border-radius: 2px;
+}
+.bd-switch-handle {
+    rx: 2;
+}
+  
+
+/*servers icons and most user icons*/
+/*must be at back because BD formatter is broken*/
+foreignObject[mask*="url(#"] {
+    mask: none;
+}
