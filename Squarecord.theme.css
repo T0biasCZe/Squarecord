@@ -2,7 +2,7 @@
  * @name Squarecord
  * @author T0biasCZe
  * @description Removes all the curved corners and replaces them with nice square and sharp borders. support here: https://discord.gg/HRK8MRz6KD
- * @version 1.0.1
+ * @version 1.1.0
  * @source https://github.com/T0biasCZe/Squarecord
  */
 
@@ -58,6 +58,10 @@
     border-radius: 0%;
 }
 
+.searchBar__5a20a{
+    border-radius: 0%;
+}
+
 /*unread message above/below bar*/
 .bar_edc096{
     border-radius: 0%;
@@ -75,10 +79,10 @@
 .messageInputContainer__768e6{
     border-radius: 0%;
 }
-.scrollableContainer__33e06{
-    border-radius: 0%; 
+.scrollableContainer__33e06, .scrollableContainer_ff917f{
+    border-radius: 0% !important; 
 }
-.link__95dc0{
+.link__95dc0, .link_ddbb36{
     border-radius: 0%; 
 }
 .profileBadges__7a7cb{
@@ -118,7 +122,7 @@
 .wrapper__3a7a0{
     border-radius: 0% !IMPORTANT;
 }
-.embedImage_e638a7 img, .embedImage_e638a7 video, .embedThumbnail__468e1 img, .embedThumbnail__468e1 video, .embedVideo__0c65b img, .embedVideo__0c65b video{
+.embedImage_e638a7 img, .embedImage_e638a7 video, .embedThumbnail__468e1 img, .embedThumbnail__468e1 video, .embedVideo__0c65b img, .embedVideo__0c65b video, .wrapper_f09ac7, .iconWrapper__7b0c6, .video__83189, .imageWrapper__178ee, .messageAttachmentMediaMosaic__67262, .oneByOneGridSingle__8c6ef, .mediaAttachmentsContainer__242e2, .imageContainer__1b5e9, .imageDetailsAdded_sda9Fa, .imageDetailsAdded_sda9Fa .imageWrapper__178ee{
     border-radius: 0% !IMPORTANT;
 }
 .layout_bb8e67{
@@ -127,15 +131,30 @@
 
 /*voice room*/
 .tile_a411a4,
+.tile_a411a4,
 .header__6d5ea,
 .root_a28985,
 .activityItem__33da9,
 .footer__89240,
 .border_d9a17b,
-.overlayTitle_a9f7c6{
-    border-radius: 0%;
+.overlayTitle_a9f7c6,
+.avatarWrapper_edfd2,
+.avatarWrapper_edfd2c,
+.wrapper__3ed10,
+.liveIndicator__2469a,
+.liveShapeRoundLeft_d3f347,
+.baseShapeRoundLeft_c1e45f,
+.liveIndicator__2469a,
+.liveShapeRoundRight_ae9843,
+.baseShapeRoundRight__539c0,
+.hangStatusContainer_d0949a,
+.overlayTitle_de9b41{
+    border-radius: 0% !important;
 }
-.liveShapeRound__811c0{
+.centerButton__8316e{
+    border-radius: 0% !important;
+}
+.liveShapeRound__811c0, .liveShapeRound__75159{
     border-radius: 0%;
 }
 .content_b60865{
@@ -149,7 +168,8 @@
 
 /*picture in picture*/
 .borderRadius__3965c,
-.pictureInPictureVideo_f1081d{
+.pictureInPictureVideo_f1081d,
+.pictureInPictureVideo__31ff0{
     border-radius: 0%;
 }
 
@@ -269,6 +289,9 @@
   
 
 /*servers icons and most user icons*/
+.wrapperSimple__9e2b0{
+    border-radius: 0% !important;
+}
 /*must be at back because BD formatter is broken*/
 foreignObject[mask*="url(#"] {
     mask: none;
